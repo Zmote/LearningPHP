@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="c96398e1-105e-4a6d-bd76-d1347163ff2c" name="XAMPP Apache" url="http://localhost/LearningPHP">
+        <fileTransfer port="0" mountedRoot="C:\xampp\htdocs\LearningPHP" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</project>
